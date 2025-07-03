@@ -2,11 +2,23 @@
 
 <div align="center">
 
-## 🌟 [**View My Animated Portfolio →**](https://yourusername.github.io/portfolio) 🌟
+## 🌟✨ [**🚀 VIEW MY ANIMATED PORTFOLIO 🚀**](https://daimmehmood.github.io) ✨🌟
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Blockchain+Expert;Cybersecurity+Specialist;Web3+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)
+<a href="https://daimmehmood.github.io">
+  <img src="https://img.shields.io/badge/🎮_Interactive_Portfolio-Live_Demo-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4&color=45B7D1" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=daimkhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Blockchain+Expert;Cybersecurity+Specialist;Web3+Enthusiast;Click+Above+for+Animated+Portfolio!&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=00FFFF)
+
+---
+
+### 🎯 **Quick Navigation**
+[![🌐 Portfolio](https://img.shields.io/badge/🌐_Portfolio-Animated_Experience-00FFFF?style=for-the-badge&logo=firefox&logoColor=white)](https://daimmehmood.github.io)
+[![📧 Email](https://img.shields.io/badge/📧_Email-Contact_Me-FF00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![💼 LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-00FF00?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![🐦 Twitter](https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+<img src="https://komarev.com/ghpvc/?username=daimmehmood&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -14,10 +26,19 @@
 
 <div align="center">
 
-## 🚀 **Quick Access**
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-00FFFF?style=for-the-badge&logo=github&logoColor=white)](https://yourusername.github.io/portfolio)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-FF00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF00?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+## 🎮 **Experience My Interactive Portfolio**
+
+<a href="https://daimmehmood.github.io">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Click%20Here%20for%20Full%20Experience&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=65" />
+</a>
+
+**🔥 Portfolio Features:**
+- ✨ Animated Digital Background with Floating Nodes
+- 🌈 Glitch Text Effects & Rotating Borders
+- 💫 Interactive Skill Cards with Hover Animations  
+- 📊 Live Animated GitHub Stats
+- 🎯 Smooth Transitions & Modern Design
+- 📱 Fully Mobile Responsive
 
 </div>
 
@@ -69,11 +90,11 @@
 
 ## 📊 **GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=daimkhan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=daimkhan&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=daimmehmood&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daimmehmood&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daimkhan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daimkhan&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=00FFFF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daimmehmood&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daimmehmood&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=00FFFF" width="48%" />
 
 </div>
 
@@ -121,7 +142,7 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=daimkhan&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=daimmehmood&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -131,7 +152,7 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/daimkhan/daimkhan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/daimmehmood/daimmehmood/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -141,8 +162,22 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daimkhan&repo=blockchain-dapp&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)](https://github.com/daimkhan/blockchain-dapp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daimkhan&repo=solana-token-creator&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)](https://github.com/daimkhan/solana-token-creator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daimmehmood&repo=blockchain-dapp&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)](https://github.com/daimmehmood/blockchain-dapp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daimmehmood&repo=solana-token-creator&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)](https://github.com/daimmehmood/solana-token-creator)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 **Want the Full Experience?**
+
+### [🚀 **VISIT MY ANIMATED PORTFOLIO** 🚀](https://daimmehmood.github.io)
+
+<a href="https://daimmehmood.github.io">
+  <img src="https://img.shields.io/badge/🌟_CLICK_FOR_INTERACTIVE_VERSION-daimmehmood.github.io-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white&labelColor=4ECDC4&color=45B7D1" />
+</a>
 
 </div>
 
@@ -166,6 +201,8 @@
 
 ### 💡 *"Building the future with blockchain, one smart contract at a time"*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling)
+<a href="https://daimmehmood.github.io">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!%20Check%20my%20portfolio%20above!&fontSize=25&fontColor=fff&animation=twinkling" />
+</a>
 
 </div>
