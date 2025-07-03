@@ -1,10 +1,23 @@
 # Hi there, I'm Daim Khan 👋
 
 <div align="center">
-  
+
+## 🌟 [**View My Animated Portfolio →**](https://yourusername.github.io/portfolio) 🌟
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Blockchain+Expert;Cybersecurity+Specialist;Web3+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)
 
 <img src="https://komarev.com/ghpvc/?username=daimkhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 **Quick Access**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-00FFFF?style=for-the-badge&logo=github&logoColor=white)](https://yourusername.github.io/portfolio)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-FF00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF00?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 </div>
 
