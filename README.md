@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 🌟✨ [**🚀 VIEW MY ANIMATED PORTFOLIO 🚀**](https://daimmehmood.github.io) ✨🌟
+## ✨ [**🚀 VIEW MY FULL PORTFOLIO 🚀**](https://daimmehmood.github.io) ✨
 
 <a href="https://daimmehmood.github.io">
   <img src="https://img.shields.io/badge/🎮_Interactive_Portfolio-Live_Demo-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4&color=45B7D1" />
@@ -31,14 +31,6 @@
 <a href="https://daimmehmood.github.io">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Click%20Here%20for%20Full%20Experience&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=65" />
 </a>
-
-**🔥 Portfolio Features:**
-- ✨ Animated Digital Background with Floating Nodes
-- 🌈 Glitch Text Effects & Rotating Borders
-- 💫 Interactive Skill Cards with Hover Animations  
-- 📊 Live Animated GitHub Stats
-- 🎯 Smooth Transitions & Modern Design
-- 📱 Fully Mobile Responsive
 
 </div>
 
@@ -162,22 +154,11 @@
 
 ---
 
-## 🌟 **Featured Projects**
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daimmehmood&repo=blockchain-dapp&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)](https://github.com/daimmehmood/blockchain-dapp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daimmehmood&repo=solana-token-creator&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF)](https://github.com/daimmehmood/solana-token-creator)
-
-</div>
-
----
-
 <div align="center">
 
 ## 🎯 **Want the Full Experience?**
 
-### [🚀 **VISIT MY ANIMATED PORTFOLIO** 🚀](https://daimmehmood.github.io)
+### [🚀 **VISIT MY FULL PORTFOLIO** 🚀](https://daimmehmood.github.io)
 
 <a href="https://daimmehmood.github.io">
   <img src="https://img.shields.io/badge/🌟_CLICK_FOR_INTERACTIVE_VERSION-daimmehmood.github.io-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white&labelColor=4ECDC4&color=45B7D1" />
