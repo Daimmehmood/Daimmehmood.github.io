@@ -85,6 +85,38 @@
             animation: fadeInUp 1s ease-out;
         }
 
+            .profile-container {
+            position: relative;
+            display: inline-block;
+            margin-bottom: 30px;
+        }
+
+        .profile-img {
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+            background: linear-gradient(45deg, #00ffff, #ff00ff, #00ff00);
+            padding: 4px;
+            animation: rotate 8s linear infinite;
+        }
+
+        .profile-inner {
+            width: 100%;
+            height: 100%;
+            background: #1a1a2e;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 4rem;
+            background-image: url("https://github.com/daimmehmood.png");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            border: 2px solid rgba(0, 255, 255, 0.3);
+        }
+
+
         @keyframes rotate {
             from { transform: rotate(0deg); }
             to { transform: rotate(360deg); }
